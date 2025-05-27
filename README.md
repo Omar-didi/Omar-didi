@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Omar Díaz
+# ¡Hola! Soy Omar Díaz
 
 Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas como **Next.js**, **TypeScript**, **React**, **Node.js**, **PostgreSQL** y **Tailwind CSS**. Me encanta construir soluciones eficientes, funcionales y con foco en la experiencia del usuario.
 
@@ -6,7 +6,7 @@ Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas co
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Frontend:**
 - React.js · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
@@ -34,7 +34,7 @@ Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas co
 -->
 ---
 
-## 📫 Contacto
+## Contacto
 
 <!--- 📧 omardiazditta.com  -->
 - 💼 [LinkedIn](https://www.linkedin.com/in/omar-diaz-ditta-73629a2b3/)  
@@ -42,4 +42,4 @@ Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas co
 
 ---
 
-> 💬 _"Construyo soluciones que combinan código limpio, funcionalidad sólida y diseño enfocado en la experiencia del usuario."_  
+> _"Construyo soluciones que combinan código limpio, funcionalidad sólida y diseño enfocado en la experiencia del usuario."_  
