@@ -22,7 +22,7 @@ Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas co
 
 **Otras:**
 - n8n · Figma · Postman · Vercel · Railway
-
+<!--
 ---
 
 ## 🚀 Proyectos destacados
@@ -31,14 +31,14 @@ Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas co
 - 🔗 [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) – Descripción corta, tecnologías, funcionalidades.
 
 *(Reemplazá con tus proyectos reales y les metemos diseño si querés)*
-
+-->
 ---
 
 ## 📫 Contacto
 
-- 📧 omardiaz.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 🌐 [Portafolio](https://tu-portafolio.com) *(si tenés, si no, lo armamos luego)*
+<!--- 📧 omardiazditta.com  -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-diaz-ditta-73629a2b3/)  
+<!-- - 🌐 [Portafolio](https://tu-portafolio.com) *(si tenés, si no, lo armamos luego)*-->
 
 ---
 
