@@ -1,45 +1,74 @@
-# ¡Hola! Soy Omar Díaz
+# ¡Hola! Soy Omar Didi 👋
 
-Soy **Desarrollador Web Full Stack** con experiencia en tecnologías modernas como **Next.js**, **TypeScript**, **React**, **Node.js**, **PostgreSQL** y **Tailwind CSS**. Me encanta construir soluciones eficientes, funcionales y con foco en la experiencia del usuario.
+### Desarrollador Web | React · Next.js · TypeScript
 
-🎯 Me destaco por aprender rápido, resolver problemas con actitud proactiva y adaptarme fácilmente a distintos entornos y equipos de trabajo.
+Soy desarrollador web enfocado en crear experiencias digitales modernas, funcionales y responsive. Me interesa construir soluciones que combinen diseño, tecnología y rendimiento para ofrecer buenas experiencias a los usuarios.
 
----
-
-## Tecnologías y herramientas
-
-**Frontend:**
-- React.js · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-**Backend:**
-- Node.js · Express.js · NestJS
-
-**Bases de datos:**
-- PostgreSQL · MongoDB
-
-**Control de versiones:**
-- Git · GitHub
-
-**Otras:**
-- n8n · Figma · Postman · Vercel · Railway
-<!--
----
-
-## 🚀 Proyectos destacados
-
-- 🔗 [Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1) – Descripción corta, tecnologías, funcionalidades.
-- 🔗 [Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2) – Descripción corta, tecnologías, funcionalidades.
-
-*(Reemplazá con tus proyectos reales y les metemos diseño si querés)*
--->
----
-
-## Contacto
-
-<!--- 📧 omardiazditta.com  -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/omar-diaz-ditta-73629a2b3/)  
-<!-- - 🌐 [Portafolio](https://tu-portafolio.com) *(si tenés, si no, lo armamos luego)*-->
+Me gusta aprender constantemente, explorar nuevas tecnologías y convertir ideas en proyectos reales.
 
 ---
 
-> _"Construyo soluciones que combinan código limpio, funcionalidad sólida y diseño enfocado en la experiencia del usuario."_  
+## 🚀 Tecnologías y herramientas
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 💻 En qué estoy enfocado
+
+- Desarrollo de aplicaciones web con React y Next.js.
+- Creación de interfaces modernas con TypeScript y Tailwind CSS.
+- Desarrollo de sitios web responsive.
+- Integración de APIs y servicios externos.
+- Optimización de rendimiento y SEO técnico.
+- Desarrollo de soluciones digitales para negocios y profesionales.
+
+---
+
+## 📌 Proyectos destacados
+
+Puedes explorar mis proyectos y experimentos de desarrollo en mis repositorios:
+
+**[Explorar mis repositorios en GitHub](https://github.com/Omar-didi?tab=repositories)**
+
+También puedes conocer más sobre mi trabajo en mi portafolio personal:
+
+**[Visitar mi portafolio](#)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-didi&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-didi&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+</p>
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a conectar con otros desarrolladores, colaborar en proyectos y conocer nuevas oportunidades profesionales.
+
+<p>
+  <a href="https://www.linkedin.com/in/omar-diaz-ditta-73629a2b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Omar-didi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Seguir-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construyendo, aprendiendo y mejorando un proyecto a la vez.</i>
+</p>
