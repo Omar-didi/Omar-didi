@@ -1,4 +1,4 @@
-# ¡Hola! Soy Omar Didi 👋
+# ¡Hola! Soy Omar Didi
 
 ### Desarrollador Web | React · Next.js · TypeScript
 
@@ -42,15 +42,6 @@ Puedes explorar mis proyectos y experimentos de desarrollo en mis repositorios:
 También puedes conocer más sobre mi trabajo en mi portafolio personal:
 
 **[Visitar mi portafolio](https://omar-didi.dev)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omar-didi&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-didi&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-</p>
 
 ---
 
