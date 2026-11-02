@@ -41,7 +41,7 @@ Puedes explorar mis proyectos y experimentos de desarrollo en mis repositorios:
 
 También puedes conocer más sobre mi trabajo en mi portafolio personal:
 
-**[Visitar mi portafolio](#)**
+**[Visitar mi portafolio](omar-didi.dev)**
 
 ---
 
